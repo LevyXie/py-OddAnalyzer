@@ -25,15 +25,15 @@
 
 - 点击任意比赛的欧赔链接，进入百家欧赔页面，复制其url（或者直接在这里右键复制链接）。
 
-  ![image-20220520233938396](C:\Users\Levy\AppData\Roaming\Typora\typora-user-images\image-20220520233938396.png)
+![image-20220520233938396](https://myimageserver.oss-cn-beijing.aliyuncs.com/img/image-20220520233938396.png)
 
 - 向UI界面url选项输入复制的url，并选择参照的数据源。如下：
 
-  <img src="C:\Users\Levy\AppData\Roaming\Typora\typora-user-images\image-20220520234144081.png" alt="image-20220520234144081" style="zoom:67%;" />
+<img src="https://myimageserver.oss-cn-beijing.aliyuncs.com/img/image-20220520234144081.png" alt="image-20220520234144081" style="zoom:67%;" />
 
 - 点击一键生成比赛策略，结果如下：
 
-  <img src="C:\Users\Levy\AppData\Roaming\Typora\typora-user-images\image-20220520234229591.png" alt="image-20220520234229591" style="zoom:67%;" />
+<img src="https://myimageserver.oss-cn-beijing.aliyuncs.com/img/image-20220520234229591.png" alt="image-20220520234229591" style="zoom:67%;" />
 
 - 其中今日推荐策略及历史同赔赛果可供参考，详见原理部分。
 
@@ -43,5 +43,5 @@
 - 本项目中的爬虫尚未使用代理IP等措施，过于频繁爬取数据可能会被反爬虫机制禁用IP；同时过于频繁爬取数据会对网站服务器造成一定压力，不建议频繁爬取哦。
 - 由于对Python语法还不是很熟悉，很多地方的代码比较冗余，后期有待优化。
 
-ps：经实战分析，似乎并不好用，记录以下，图一乐。︿(￣︶￣)︿
+ps：经实战分析，似乎并不好用，记录一下，图一乐。︿(￣︶￣)︿
 
